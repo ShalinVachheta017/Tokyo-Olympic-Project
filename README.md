@@ -1,1 +1,3 @@
-# Tokyo-Olympic-Project
+# pyspark-olympic-data-etl
+
+Emphasizes the PySpark ETL pipeline for Olympic data.
