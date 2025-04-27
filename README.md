@@ -57,7 +57,3 @@ It covers medal distribution analysis, athlete participation, gender splits acro
 > Focused on AI, Data Engineering, Analytics, and Cloud Technologies.  
 > Building real-world scalable solutions.
 
----
-✅ **Professional, clean, and focused** on your data engineering + analytics work.
-
----
